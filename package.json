@@ -1,0 +1,23 @@
+{
+  "name": "resup-custom-domain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "bin": {
+    "resup-custom-domain": "./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turkdevlopers/resup-custom-domain-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turkdevlopers/resup-custom-domain-nodejs/issues"
+  },
+  "homepage": "https://github.com/turkdevlopers/resup-custom-domain-nodejs#readme"
+}
